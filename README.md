@@ -64,11 +64,15 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-P2P platform to buy and sell Bitcoins
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
+
+**Status:** event: LocalBitcoins Oy closed its Bitcoin trading service.
+
+Former P2P Bitcoin trading platform. Trading has closed, with remaining withdrawals handled separately.
 
 **Areas:** Cryptocurrency · Public APIs
 
-## Localbitcoins on APIs.io
+## Localbitcoins on APIs.io (historical record)
 
 Everything profiled for Localbitcoins is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/localbitcoins/](https://apis.io/providers/localbitcoins/)** — or go straight to one of the APIs or properties below.
 
@@ -94,44 +98,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 3.3** — minimal · rubric 0.24.0 · scored 2026-10-17
-
-| Facet | Score |
-|---|---|
-| Discoverability | 46.4 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 0.0** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | — |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/localbitcoins/](https://apis.io/providers/localbitcoins/).
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
 ## How this profile is made
 
